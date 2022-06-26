@@ -1,0 +1,15 @@
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\obj\Debug\net6.0\MorePracticeTime.csproj.AssemblyReference.cache
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\obj\Debug\net6.0\MorePracticeTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\obj\Debug\net6.0\MorePracticeTime.AssemblyInfoInputs.cache
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\obj\Debug\net6.0\MorePracticeTime.AssemblyInfo.cs
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\obj\Debug\net6.0\MorePracticeTime.csproj.CoreCompileInputs.cache
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\bin\Debug\net6.0\MorePracticeTime.exe
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\bin\Debug\net6.0\MorePracticeTime.deps.json
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\bin\Debug\net6.0\MorePracticeTime.runtimeconfig.json
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\bin\Debug\net6.0\MorePracticeTime.dll
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\bin\Debug\net6.0\MorePracticeTime.pdb
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\obj\Debug\net6.0\MorePracticeTime.dll
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\obj\Debug\net6.0\refint\MorePracticeTime.dll
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\obj\Debug\net6.0\MorePracticeTime.pdb
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\obj\Debug\net6.0\MorePracticeTime.genruntimeconfig.cache
+C:\Users\acer\OneDrive\C#\MorePracticeTime\MorePracticeTime\obj\Debug\net6.0\ref\MorePracticeTime.dll
